@@ -1,11 +1,15 @@
-// Colors
+/* ============================================= */
+/*              Color Variables                  */
+/* ============================================= */
 $color-text: #777;
-$color-turqoise: #58e1c1;
+$color-primary: #58e1c1;
 $color-default: #51ddfc;
 $color-success: #63cc82;
-$color-error: #fd7856;
+$color-warning: #fd7856;
 
-// Breakpoints
+/* ============================================= */
+/*               Media Queries                   */
+/* ============================================= */
 $break-s: 576px;
 $break-m: 768px;
 $break-l: 992px;
